@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Harrison Gropper, but you can call me Harry if you'd like to!
 
 - 👀 I’m interested in anything that has to do with data science, and this is why:
-Many people write excellent novels that tell the most exciting stories. 
-Although I could be a better storyteller, I have the power of data science on my side. 
-The more time goes on, the more data there is and the more interesting untold stories we can tell. 
+Data is the best story teller.
+As time passes, the more data there is and the more interesting stories we can tell. 
 
 - 🌱 I’m currently learning Machine Learning.
 Implementing many algorithms from scratch and understanding how they work.
