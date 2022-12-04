@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hgropper
+- 👋 Hi, I’m Harrison Gropper, but you can call me Harry if you'd like to!
 
 - 👀 I’m interested in anything that has to do with data science, and this is why:
 Many people write excellent novels that tell the most exciting stories. 
